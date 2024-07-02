@@ -11,7 +11,7 @@ Este proyecto es un conversor de monedas sencillo que permite convertir entre di
 
 1. Clona el repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/tu-usuario/conversor-de-monedas.git
+    git clone https://github.com/davidas56/ConvertidorMoneda.git
     cd conversor-de-monedas
     ```
 
